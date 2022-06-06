@@ -18,4 +18,4 @@ hello ligang! hello git!
 hello ligang! hello git!
 hello ligang! hello git!
 hello ligang! hello git!
-hello ligang! hello git!
+hello ligang! hello git! hot-fix test
